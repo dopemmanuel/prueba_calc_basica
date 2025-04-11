@@ -1,6 +1,7 @@
 package es.iesraprog2425.pruebaes.calculadora.app
 
 class Calculadora {
+
     fun calculate(num1: Double, operator: Char, num2: Double): Double {
         return when (operator) {
             '+' -> num1 + num2

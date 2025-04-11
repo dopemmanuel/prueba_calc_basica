@@ -7,7 +7,6 @@ fun main() {
     Consola().start()
 }
 
-
 /*
 fun main() {
     val scanner = Scanner(System.`in`)
@@ -35,8 +34,9 @@ fun main() {
 fun main() {
     Calculadora(Consola()).iniciar()
 }
-*/
+*
 
+ */
 /*
 import java.util.*
 
